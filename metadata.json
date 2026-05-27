@@ -1,0 +1,6 @@
+{
+  "name": "RUN WITH THE WOLVES",
+  "description": "Luxury high-end fashion, streetwear and sportswear apparel. Made for the fearless ones who lead and never follow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
